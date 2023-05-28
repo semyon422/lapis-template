@@ -1,0 +1,4 @@
+#!/bin/bash
+. ./setenv
+luarocks install lapis
+mkdir temp
